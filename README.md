@@ -10,8 +10,9 @@ lab 5: Matched Filter<br>
 lab 6: Binary PCM Signalling<br>
 lab 7: Binary PCM Signalling - ISI<br>
 <br>
-Contents: Lab Handout<br>
-          E1.ipynb for code<br>
-          E1.zip for LaTeX<br>
-          E1.pdf for the report<br>
-          and other related/ trial files<br>
+Contents: <br>
+Lab Handout<br>
+E1.ipynb for code<br>
+E1.zip for LaTeX<br>
+E1.pdf for the report<br>
+and other related/ trial files<br>
